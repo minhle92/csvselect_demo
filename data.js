@@ -1,0 +1,1 @@
+var csvStr = "First Name,Gender,School,Year\rBob,Male,SCS,Freshman\rAlice,Female,MCS,Sophomore\rAnn,Female,CIT,Senior\rJack,Male,SCS,Junior\rSarah,Female,MCS,Sophomore\rMichael,Male,HCI,Freshman\rDoug,Male,HCI,Senior\rAlex,Male,SCS,Junior\rWill,Male,MCS,Freshman\rSarah,Female,CFA,Junior";
